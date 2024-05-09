@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou Estagiando;
 - 🌱 Estudando JavaScript, Html, Css e Mysql;
-- 😄 Pronomes: ele.
+- 😄 Pronomes: Ele.
 
 ![JaissonTallison GitHub stats](https://github-readme-stats.vercel.app/api?username=JaissonTallison&show_icons=true&theme=radical)
 
