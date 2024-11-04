@@ -1,7 +1,7 @@
 ### Olá Eu sou Jaisson Tallison
 
 
-- 🔭 Atualmente estou Estagiando;
+- 🔭 Atualmente estou Estudando;
 - 🌱 Estudando Front-End e Back-End;
 - 📧 Contate-me no email: j.tallison29@gmail.com
 - 😄 Pronomes: Ele.
