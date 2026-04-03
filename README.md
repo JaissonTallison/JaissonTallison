@@ -15,8 +15,6 @@
       
   </div><br>
 
- <div> <h1>Linkedin</h1> www.linkedin.com/in/jaisson-tallison-404036222 </div>
-
 ## Tecnologias
 <div style="display: inline_block"><br>
 
