@@ -15,7 +15,7 @@
       
   </div><br>
 
-![JaissonTallison GitHub stats](https://github-readme-stats.vercel.app/api?username=JaissonTallison&show_icons=true&theme=radical)
+ <div> <h1>Linkedin</h1> www.linkedin.com/in/jaisson-tallison-404036222 </div>
 
 ## Tecnologias
 <div style="display: inline_block"><br>
