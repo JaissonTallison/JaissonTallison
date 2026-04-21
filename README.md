@@ -16,32 +16,16 @@
   </div><br>
 
 ## Tecnologias
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=113&color=currentColor">
-
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=113&color=currentColor">
-
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
-
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
-
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  
-
-  
-  
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=113&color=currentColor">
+  <img alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=113&color=currentColor">
+  <img alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
+  <img alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
