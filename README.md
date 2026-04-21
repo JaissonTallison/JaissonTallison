@@ -16,7 +16,7 @@
   </div><br>
 
 ## Tecnologias
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<p align="left">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,4 +28,4 @@
   <img alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
   <img alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</p>
