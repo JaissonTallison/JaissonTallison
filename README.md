@@ -17,24 +17,20 @@
 
 ## Tecnologias
 
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p>
+## Tecnologias
 
-<p align="left">
-  <strong>Backend:</strong><br>
-  <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
-  <img alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=113&color=currentColor">&nbsp;
-  <img alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">&nbsp;
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</p>
+### Frontend:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 
-<p align="left">
-  <strong>Banco de Dados:</strong><br>
-  <img alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor">
-</p>
+### Backend:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://icongr.am/devicon/java-original.svg?size=113&color=currentColor" width="40"/>
+<img src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+### Banco de Dados:
+<img src="https://icongr.am/devicon/mysql-original.svg?size=148&color=currentColor" width="40"/>
