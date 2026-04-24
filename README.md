@@ -16,7 +16,6 @@
   </div><br>
 
 ## Tecnologias
-## Tecnologias
 
 <p align="left">
   <strong>Frontend:</strong><br>
